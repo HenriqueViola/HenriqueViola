@@ -2,7 +2,7 @@
 
 **`Analista de Testes Automatizados`**
 
-Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento, estou cursando minha segunda graduação em TI, desta vez em Engenharia da Computação, já sendo formado em Análise e Desenvolvimento de Sistemas. Tenho experiência de 3 anos na área de Suporte (Níveis I e II) e atualmente atuo como Analista de Testes Automatizados (QA), com foco em evolução contínua e melhoria da qualidade de software.
+Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento, estou cursando minha segunda graduação em TI, desta vez em Engenharia da Computação, já sendo formado em Análise e Desenvolvimento de Sistemas. Tenho experiência de 3 anos na área de Suporte (Níveis I e II) e atualmente atuo como Analista de Testes Automatizados (QA), com foco em evolução contínua e melhoria da Qualidade de Software.
 
 ---
 
@@ -38,13 +38,6 @@ Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
   <img 
-    alt="JUnit" 
-    title="JUnit"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" 
-  />
-  <img 
     alt="Selenium" 
     title="Selenium"
     width="30px" 
@@ -58,12 +51,26 @@ Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
   />
+  <img 
+  alt="Maven" 
+  title="Maven"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+<img 
+  alt="JUnit 5" 
+  title="JUnit 5" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" 
+/>
+  
 </p>
 </a>
 </p>
 
 ---
-
 
 ### 📊 Estatísticas
 
