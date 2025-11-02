@@ -8,19 +8,12 @@ Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento,
 
 ### 🌐 Conecte-se comigo!
 
-<p align="left">
-  <a href="https://github.com/HenriqueViola" target="_blank" style="text-decoration: none;">
-    <img 
-      alt="GitHub" 
-      title="Visite meu perfil no GitHub" 
-      src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/henriqueviola/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/henriqueviola/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+      style="display: block; border: 0;"
     />
   </a>
 </p>
