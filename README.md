@@ -31,6 +31,13 @@ Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
   <img 
+    alt="JUnit 5" 
+    title="JUnit 5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" 
+  />
+  <img 
     alt="Selenium" 
     title="Selenium"
     width="30px" 
@@ -45,19 +52,20 @@ Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" 
   />
   <img 
-  alt="Maven" 
-  title="Maven"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
-/>
-<img 
-  alt="JUnit 5" 
-  title="JUnit 5" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" 
-/>
+    alt="Maven" 
+    title="Maven"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+  />
+  <img 
+    alt="Jenkins" 
+    title="Jenkins" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+  />
+</p>
   
 </p>
 </a>
