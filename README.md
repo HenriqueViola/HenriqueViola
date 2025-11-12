@@ -2,7 +2,7 @@
 
 **`Analista de Testes Automatizados - QA`**
 
-Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento, estou cursando minha segunda graduação em TI, desta vez em Engenharia da Computação, já sendo formado em Análise e Desenvolvimento de Sistemas. Tenho experiência de 3 anos na área de Suporte (Níveis I e II) e hoje atuo como Analista de Testes Automatizados (QA), com foco em evolução contínua e melhoria da Qualidade de Software.
+Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No momento, estou cursando minha segunda graduação em TI, desta vez em Engenharia da Computação, já sendo formado em Análise e Desenvolvimento de Sistemas. Tenho uma vasta experiência na área de Suporte Técnico (Níveis I e II) e hoje atuo como Analista de Testes Automatizados (QA), com foco em evolução contínua e melhoria da Qualidade de Software.
 
 ---
 
