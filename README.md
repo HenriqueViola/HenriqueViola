@@ -82,9 +82,10 @@ Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No mo
 
 ### 📊 Estatísticas
 
+<p align="center">
   <img 
-    alt="Principais Linguagens de Henrique Viola" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueViola&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
+    alt="Principais Linguagens de Henrique Viola"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueViola&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
