@@ -42,6 +42,6 @@ Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No mo
 <p align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueviola&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
