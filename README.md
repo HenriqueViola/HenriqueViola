@@ -30,4 +30,5 @@ Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No mo
   <img alt="Maven" title="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
   <img alt="Jenkins" title="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="SoapUI" title="SoapUI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/SoapUI_Logo.png"/>
 </p>
