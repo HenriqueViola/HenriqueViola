@@ -6,6 +6,20 @@ Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No mo
 
 ---
 
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="JUnit 5" title="JUnit 5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg"/>
+  <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img alt="Cucumber" title="Cucumber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
+  <img alt="Maven" title="Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Jenkins" title="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/
+</p>
+
+---
+
 ### 🌐 Conecte-se comigo!
 
 <p align="left">
@@ -16,18 +30,4 @@ Olá! Me chamo Henrique Viola, tenho 26 anos e sou natural de Santos - SP. No mo
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
     />
   </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="JUnit 5" title="JUnit 5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg"/>
-  <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-  <img alt="Cucumber" title="Cucumber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
-  <img alt="Maven" title="Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
-  <img alt="Jenkins" title="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
